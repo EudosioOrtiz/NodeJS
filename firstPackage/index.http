@@ -1,0 +1,13 @@
+POST http://localhost:3000/Request/History HTTP/1.1
+Content-Type: application/json
+
+{
+    "name":"ranger model 4",
+    "motor": "v4",
+    "velocidad": 260,
+    "riesgo": "medio"
+}
+
+//PUT  http://localhost:3000/
+
+//DELETE  http://localhost:3000/
